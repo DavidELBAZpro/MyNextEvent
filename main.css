@@ -1,0 +1,12 @@
+body {
+    /* background-image: url("https://kampungdesigner.com/wp-content/uploads/edd/2021/09/NBA-Logo-Cover.png"); */
+    /* background-repeat: repeat; */
+    background: rgb(135, 163, 188);
+    
+}
+
+img {
+    display: block;
+    min-width: 7em;
+    max-width: 7em;
+}

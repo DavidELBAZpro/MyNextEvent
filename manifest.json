@@ -1,0 +1,11 @@
+{
+  "name": "MyEvents",
+  "version": "1.0.0",
+  "description": "A Chrome extension to visualizeand access to the upcoming events ",
+  "manifest_version": 3,
+  "author": "David ELBAZ",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "My Next Event - the upcoming events "
+  }
+}
